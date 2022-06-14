@@ -11,5 +11,6 @@
             "email": "Weberty@p21sistemas.com.br"
         }
     ],
+    "prefer-stable": true,
     "require": {}
 }
