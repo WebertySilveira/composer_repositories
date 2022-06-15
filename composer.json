@@ -1,0 +1,24 @@
+{
+    "name": "p21/teste",
+    "autoload": {
+        "psr-4": {
+            "P21\\Teste\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "p21Weberty",
+            "email": "Weberty@p21sistemas.com.br"
+        }
+    ],
+    "repositories": [
+        {
+            "name": "WebertySilveira/teste",
+            "type": "vcs",
+            "url": "git@github.com:WebertySilveira/teste.git"
+        }
+    ],
+    "require": {
+        "webertysilveira/teste": "dev-main"
+    }
+}
