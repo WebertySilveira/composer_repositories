@@ -1,5 +1,5 @@
 {
-    "name": "p21/teste",
+    "name": "webertysilveira/teste",
     "autoload": {
         "psr-4": {
             "P21\\Teste\\": "src/"
